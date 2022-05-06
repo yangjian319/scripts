@@ -1,3 +1,5 @@
+http://security.ubuntu.com/ubuntu/pool/main/a/apt/apt-transport-https_1.0.1ubuntu2.24_amd64.deb
+
 JDK 11安装
 ----------
 cd /usr/local/
